@@ -4,7 +4,7 @@
 
 ## Summary
 - 👋 Hi there, I’m @XuanLongNg
-- 👀 I’m interested in C/C++ and Python language.
+- 👀 I’m interested in C/C++,Python and Javascript language.
 - ✌ I’m trying to be a Web Developer
 - 🌱 I’m currently learning everything I need to develop myself.
 <!-- ## Languages and Tools -->
